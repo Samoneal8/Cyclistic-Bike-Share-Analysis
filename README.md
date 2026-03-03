@@ -6,7 +6,8 @@
 * **Stakeholders:** Cyclistic executive team and Director of Marketing.
 
 ##  2. Prepare & Process
-* **Data Source:** Cyclistic’s historical trip data (2020 Q1).
+* **Data Source:** Cyclistic’s historical trip data (2020 Q1) Google Data Analytics.
+* **Data Scale:** Analyzed over **426,000 rows** of raw trip data to ensure statistical significance.
 * **Tools Used:** * **SQL (MS SQL Server):** Used for large-scale data cleaning and initial analysis.
     * **R (RStudio):** Used for advanced data visualization and statistical summaries.
 * **Cleaning Steps:** * Removed maintenance/test station records (`HQ QR`).
